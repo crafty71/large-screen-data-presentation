@@ -14,7 +14,7 @@ export default {
 };
 </script>
 
-<style lang="scss">
+<style lang="less">
 html,
 body {
   margin: 0;

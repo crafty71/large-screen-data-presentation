@@ -8,7 +8,7 @@
   }
 </script>
 
-<style lang="scss" scoped>
+<style lang="less" scoped>
   .separator {
     width: 100%;
     height: 10px;

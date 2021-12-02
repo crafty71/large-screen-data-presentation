@@ -67,7 +67,7 @@
   }
 </script>
 
-<style lang="scss" scoped>
+<style lang="less" scoped>
   .country-category {
     display: flex;
     width: 100%;

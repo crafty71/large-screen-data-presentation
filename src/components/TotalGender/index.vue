@@ -66,7 +66,7 @@
   }
 </script>
 
-<style lang="scss" scoped>
+<style lang="less" scoped>
   .total-gender {
     display: flex;
     align-items: center;

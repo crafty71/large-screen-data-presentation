@@ -152,7 +152,7 @@
   }
 </script>
 
-<style lang="scss" scoped>
+<style lang="less" scoped>
   .average-view {
     display: flex;
     width: 100%;
